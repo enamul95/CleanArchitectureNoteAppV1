@@ -18,6 +18,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             CleanArchitectureNoteAppTheme {
                 // A surface container using the 'background' color from the theme
+               //https://www.youtube.com/watch?v=8YPXv7xKh2w&t=562s
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
