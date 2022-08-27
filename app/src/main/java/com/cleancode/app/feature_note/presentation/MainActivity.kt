@@ -1,4 +1,4 @@
-package com.cleancode.app
+package com.cleancode.app.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
